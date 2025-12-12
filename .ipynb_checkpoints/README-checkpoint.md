@@ -7,3 +7,5 @@ Datasets
 - loan_approval_dataset.csv - https://www.kaggle.com/datasets/suryadeepthi/loan-approval-dataset
 - loan_approval_class.csv - https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data
 - loan_data.csv - https://www.kaggle.com/datasets/prateekmaj21/loan-approvals
+
+NOTE: bank_loan_data.csv and loan_approval_class.csv are the same data. 
